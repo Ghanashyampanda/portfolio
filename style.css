@@ -75,6 +75,24 @@ section.fadeIn{
     animation: fadeIn 2s forwards;
 }
 
+.right {
+    
+  }
+  .photo{
+    /* height: 200px;
+    width: 100px;
+    background-color: red;
+    float: right; */
+    
+  display: flex;
+  float: right;
+  width: 13%;
+  object-fit: cover;
+  height: 200px;
+  background-color: red;
+  transform: translate(-180px,-500px);
+  }
+
 .switch-wrapper{
                     display: -webkit-box;
                     display: -ms-flexbox;

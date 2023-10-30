@@ -11,7 +11,7 @@ body,html {
 
 body.night, html.night {
                             background-color: #131417;
-                            color: #afafbf;
+                            color: #ddddeb;
                             scroll-behavior: smooth;
                         }
 
